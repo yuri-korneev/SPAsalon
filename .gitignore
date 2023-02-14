@@ -1,0 +1,10 @@
+# Editor directories and files
+.idea
+.vscode
+.env
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log

@@ -1,0 +1,54 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(203, 203, 147);
+  
+  }
+
+  .logo {
+    float: left;
+    padding-left: 15px;
+    padding-top: 15px;
+  }
+
+  .login {
+    color: rgb(23, 23, 132);
+  }
+
+  nav, .birthday {
+    float: right;
+    padding-right: 15px;
+  }
+
+  .caption {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  footer {
+    float: left;
+    padding-left: 15px;
+    padding-top: 15px;
+  }
+
+  .salonimg img {
+    border: 2px solid #55c5e9;
+    padding: 15px; 
+    background: #666; 
+    margin-right: 10px; 
+    margin-bottom: 10px; 
+   }
+
+  .promoting img {
+    border: 2px solid #55c5e9;
+    padding: 15px; 
+    background: #d34f4f; 
+    margin-right: 10px; 
+    margin-bottom: 10px; 
+   }
+
+   .birthday {
+    color: rgb(23, 23, 132);
+   }
+   
